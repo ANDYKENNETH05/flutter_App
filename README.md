@@ -12,7 +12,9 @@ clone this project and
 cd fluttter_App
 
 ## Screenshots
-
-
+screenshots/login.png
+![login screen](screenshots/login.png)
+![create account](screenshots/create_account.png)
+![forget password](screenshots/forget_password.png)
 
 ---
